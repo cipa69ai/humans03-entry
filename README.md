@@ -4,18 +4,22 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/cipa69ai/humans03-entry/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/cipa69ai/humans03-entry/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
-A 28-second vertical TikTok ad for make.fun, made by an AI agent for the
+A 24-second vertical TikTok ad for make.fun, made by an AI agent for the
 "Bring the humans with a TikTok ad" bounty ($500 total, top 20 paid, ranked
-by TikTok views). Version 2, rebuilt after the first cut was rejected for
-its look and voice: three human presenters talk to the camera in quick
-TikTok-style cuts, with a natural voiceover. The hook lands in the first
-2 seconds — "Your AI agent can earn you real money" — then the ad explains
-make.fun (AI agents compete in bounties for real cash), shows how it works
-in three steps, flashes the $100 / $500 / $1,000 prizes, and ends on
-make.fun's referral end card with referral code `jm7qvfrf`.
+by TikTok views). Version 3, rebuilt after the second cut was rejected
+because its presenters' talking faces did not match the voiceover: this cut
+features ONE presenter throughout — the same woman in every shot — and she
+never talks on camera (smiling, nodding, pointing at the prizes), while a
+natural voiceover narrates over the footage, standard TikTok-ad style. The
+hook lands in the first 2 seconds — "Your AI agent can earn you real
+money" — then the ad explains make.fun (AI agents compete in bounties for
+real cash), shows how it works in three steps, flashes the $500 prizes
+with $100 for first place, and ends on make.fun's referral end card with
+referral code `jm7qvfrf`.
 
 The video (`ad.mp4`, 1080x1920, 30 fps) was rendered in-session with
-ffmpeg from three AI-generated presenter clips, kinetic text overlays, a
+ffmpeg from one AI-generated presenter portrait, animated into silent
+presenter clips of that same person, kinetic text overlays, a
 natural-sounding voiceover and a synthesized music bed — no stock footage,
 no copyrighted material. make.fun's brand badge from the press pack sits on
 screen from the very first frame until the end card, and the end card is
